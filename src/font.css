@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'helvetica_mediumregular';
+    src: url('helvmn.woff2') format('woff2'),
+         url('helvmn.woff') format('woff');
+  }
+
+  @font-face {font-family: "gt_sectra";
+     src:url("GT-Sectra-Display-Light-Italic.woff2") format("woff2"), /* chrome、firefox */
+     url("GT-Sectra-Display-Light-Italic.woff") format("woff"); /* chrome、firefox */
+     font-style:italic
+   }
